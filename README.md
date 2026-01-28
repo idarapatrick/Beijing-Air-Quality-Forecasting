@@ -114,7 +114,7 @@ The project includes 15 different experiments testing various configurations:
 
 4. **Longer lookback windows help** the model see multi-day weather patterns that affect pollution levels
 
-5. **GRUs are a good alternative** to LSTMs with faster training and similar performance
+5. **GRUs are a good alternative** to LSTMs with faster training and similar performance.
 
 ## Results
 
@@ -122,4 +122,4 @@ Experiment 8 appears to be the convincing model but experiment 15, which uses en
 
 ## License
 
-This project is for educational purposes.
+This project is for educational purposes. 
