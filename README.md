@@ -118,7 +118,7 @@ The project includes 15 different experiments testing various configurations:
 
 ## Results
 
-The best performing models achieved validation RMSE scores that met the project goal. See the notebook for detailed results and visualizations comparing all experiments.
+Experiment 8 appears to be the convincing model but experiment 15, which uses ensemble models is a contender
 
 ## License
 
